@@ -1,0 +1,15 @@
+com\core\service\CategoryServiceImpl.class
+com\core\entity\Product.class
+com\core\exception\ResourceNotFoundException.class
+com\core\service\ProductServiceImpl.class
+com\core\dao\ProductDao.class
+com\core\service\CategoryService.class
+com\core\exception\ErrorResponse.class
+com\core\NimapTaskApplication.class
+com\core\database\Data.class
+com\core\entity\Category.class
+com\core\service\ProductService.class
+com\core\dao\CategoryDao.class
+com\core\controller\ProductController.class
+com\core\exception\GlobalExceptionHandler.class
+com\core\controller\CategoryController.class
