@@ -90,7 +90,7 @@ http://localhost:8080
 ### **Steps to Run**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/HARDIK-PANCHARIYA/Nimap-Task.git
+   git clone https://github.com/YashChawane/NimapMechinetest
    ```  
 2. Navigate to the project directory:  
    ```bash
